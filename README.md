@@ -1,10 +1,6 @@
 # Exercise Tracker REST API
 
-#### A microservice project, part of Free Code Camp's curriculum
-
-### User Stories
-
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-exercisetracker)](https://repl.it/github/freeCodeCamp/boilerplate-project-exercisetracker)
+Live app link: https://exercise-tracker-mic.glitch.me
 
 1. Create a new user by posting form data username to /api/exercise/new-user and returned will be an object with username and _id.
 
